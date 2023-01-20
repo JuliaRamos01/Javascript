@@ -19,3 +19,36 @@ n=n*4 é o mesmo que n=*4
 n=n/4 é o mesmo que n=/4
 n=n**4 é o mesmo que n=**4
 n=n%4 é o mesmo que n=%4
+
+Incremento e decremento
+
+x=x+1 é o mesmo que x++
+x=x-1 é o mesmo que x--
+
+Aula 08 - ok (rever depois)
+
+Operadores Relacionais (não têm ordem de resolução)
+
+<
+>
+>=
+<=
+==
+!=
+=== (operador de igualdade restrita)
+
+Operadores Lógicos
+
+! negação
+&& conjunção "e"
+|| disjunção "ou"
+
+Aula 09 - parei em 14:30
+
+DOM - Document Object Model
+
+Árvore DOM
+Window - Raiz
+Location - Localização 
+Document - Documento
+History - Navegação 
