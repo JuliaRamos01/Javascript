@@ -1,0 +1,21 @@
+Aula 01- ok
+Aula 02- ok
+Aula 03- ok
+Aula 04- ok
+Aula 05- ok
+Aula 06- ok
+Aula 07- ok
+Ordem de precedência:
+1 - ( )
+2 - **
+3 - * / %
+4- + -
+
+Simplificações:
+
+n=n+4 é o mesmo que n=+4
+n=n-4 é o mesmo que n=-4
+n=n*4 é o mesmo que n=*4
+n=n/4 é o mesmo que n=/4
+n=n**4 é o mesmo que n=**4
+n=n%4 é o mesmo que n=%4
