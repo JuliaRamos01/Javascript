@@ -61,7 +61,10 @@ Por Nome - getElementsByName( )
 Por Classe - getElementsByClassName ( )
 Por Seletor - querySelector( ) ou querySelectorAll( )
 
-Aula 10 -
+Aula 10 - Eventos DOM - ok
 
-Eventos DOM
+Aula 11 - Condições em Js
+
+
+
 
