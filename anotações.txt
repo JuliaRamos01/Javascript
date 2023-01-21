@@ -65,6 +65,8 @@ Aula 10 - Eventos DOM - ok
 
 Aula 11 - Condições em Js - ok
 
+Aula 12 - Condições aninhadas
+
 
 
 
