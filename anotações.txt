@@ -63,7 +63,7 @@ Por Seletor - querySelector( ) ou querySelectorAll( )
 
 Aula 10 - Eventos DOM - ok
 
-Aula 11 - Condições em Js
+Aula 11 - Condições em Js - ok
 
 
 
