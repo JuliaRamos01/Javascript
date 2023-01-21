@@ -43,7 +43,7 @@ Operadores Lógicos
 && conjunção "e"
 || disjunção "ou"
 
-Aula 09 - parei em 14:30
+Aula 09 - ok
 
 DOM - Document Object Model
 
@@ -52,3 +52,16 @@ Window - Raiz
 Location - Localização 
 Document - Documento
 History - Navegação 
+
+Métodos por seletor
+
+Por Marca - getElementsByTagName( )
+Por Id - getElementsById( )
+Por Nome - getElementsByName( )
+Por Classe - getElementsByClassName ( )
+Por Seletor - querySelector( ) ou querySelectorAll( )
+
+Aula 10 -
+
+Eventos DOM
+
