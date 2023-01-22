@@ -67,6 +67,9 @@ Aula 11 - Condições em Js - ok
 
 Aula 12 - Condições aninhadas
 
+Condição múltipla (switch)
+O break é obrigatório
+
 
 
 
